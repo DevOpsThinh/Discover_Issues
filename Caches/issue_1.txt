@@ -1,0 +1,9 @@
+Problem: Could not delete caches dir yourProject\build\kotlin\compileDebugTestingKotlin
+
+Temporary solution:
+Delete (the contents of) the folder which is giving you the issue. For example:
+
+..\app\build\kotlin\compileDebugKotlin\caches-jvm\inputs
+If you get: "The file is open in OpenJDK Platform Binary" you'll need to stop these processes through Windows Task Manager > Details > Java.exe.
+
+Link: https://stackoverflow.com/questions/65832868/caused-by-java-lang-assertionerror-could-not-delete-caches-dir-yourproject-bui
