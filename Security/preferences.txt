@@ -1,0 +1,9 @@
+Android 9 and above provides the StrongBox Keymaster API for these features:
+https://developer.android.com/training/articles/keystore#HardwareSecurityModule
+
+A Third-party encryption library: https://github.com/facebookarchive/conceal
+
+Wiki: 
+https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
+https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation
+https://whatis.techtarget.com/definition/logicgate-AND-OR-XOR-NOT-NAND-NOR-and-XNOR
