@@ -1,0 +1,8 @@
+# Popular tools are available to monitor unprotected data:
+
+• Wireshark: https://www.wireshark.org
+• mitmproxy: https://mitmproxy.org
+• Charles: https://www.charlesproxy.com
+
+# A network security testing tool: https://github.com/google/nogotofail
+# The SafetyNet API: https://developer.android.com/training/safetynet/attestation

@@ -1,9 +1,21 @@
-Android 9 and above provides the StrongBox Keymaster API for these features:
-https://developer.android.com/training/articles/keystore#HardwareSecurityModule
+# Android 9 and above provides the StrongBox Keymaster API for these features:
+# https://developer.android.com/training/articles/keystore#HardwareSecurityModule
 
-A Third-party encryption library: https://github.com/facebookarchive/conceal
+# Network Security Configuration: https://developer.android.com/training/articles/security-config
 
-Wiki: 
+# OAuth is a standard to delegate access so users can grant a service access to their
+information without revealing their password: https://developer.android.com/training/id-auth/authenticate.html
+
+# The Account Manager is a centralized helper for user account credentials so your
+app doesn’t have to deal with user passwords directly: 
+https://developer.android.com/reference/android/accounts/AccountManager.html
+
+# E2E encryption: https://github.com/signalapp (a proactive way to avoid liability during a server-side data breach
+or compromise)
+
+# A Third-party encryption library: https://github.com/facebookarchive/conceal
+
+# Wiki: 
 https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
 https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation
 https://whatis.techtarget.com/definition/logicgate-AND-OR-XOR-NOT-NAND-NOR-and-XNOR
