@@ -16,3 +16,5 @@ Step 3:- Go to the processes tab.
 Step 4:- Look for adb.exe and select that.
 Step 5:- Press End Process.
 Step 6:- Open Android Studio again.
+
+Link: https://stackoverflow.com/questions/49340436/error-initializing-adb-unable-to-create-debug-bridge-unable-to-start-adb-serve
