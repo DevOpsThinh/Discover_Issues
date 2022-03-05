@@ -13,3 +13,5 @@ Why are they afraid they'll break it? Because they don't have test." (- Robert C
 
 - Kluent (Fluent Assertion-Library for Kotlin): https://markusamshove.github.io/Kluent/Mocking.html
 (Is another smart wrapper on mockito-kotlin. Purpose of this lib is to provide fluent assertions.) 
+
+- Testing robots: https://jakewharton.com/testing-robots/
