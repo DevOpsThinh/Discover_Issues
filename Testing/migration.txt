@@ -1,2 +1,0 @@
-- Migration to the new kotlinx-coroutines-test API:
-https://github.com/Kotlin/kotlinx.coroutines/blob/master/kotlinx-coroutines-test/MIGRATION.md

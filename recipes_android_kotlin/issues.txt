@@ -1,0 +1,2 @@
+- Espresso setup therewith is a Hamcrest version conflict:
+https://stackoverflow.com/questions/66915068/test-error-noclassdeffounderror-failed-resolution-of-lorg-hamcrest-matchers
