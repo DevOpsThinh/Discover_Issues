@@ -1,0 +1,4 @@
+"An analysis done by software without running the code => Static code analysis."
+
+- Detekt: It operates on the abstract syntax tree provided by the Kotlin compiler.
+(https://detekt.dev/gradle.html)
