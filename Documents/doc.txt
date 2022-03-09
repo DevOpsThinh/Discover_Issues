@@ -1,0 +1,27 @@
+Understanding HTTPS
+
+- HTTPS uses Transport Layer Security (TLS) to encrypt network data, an important layer of protection.
+
+- Prefer: https://developer.android.com/training/articles/security-config.
+
+- If you see an error such as, SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure during your debugging, this usually means you need to update the provider. 
+
+- Prefer: 
+https://developer.android.com/training/articles/security-gms-provider#patching
+
+- SSL Lab’s website: https://www.ssllabs.com/ssltest/analyze.html
+
+- TrustKit: https://github.com/datatheorem/TrustKit-Android
+
+- OWASP doc: https://owasp.org/www-community/controls/Certificate_and_Public_Key_Pinning
+
+- OCSP stapling: 
+https://developer.android.com/reference/kotlin/java/security/cert PKIXRevocationChecker.Option
+
+Secure Hash Algorithms: https://en.wikipedia.org/wiki/Secure_Hash_Algorithms
+
+- Verifying integrity with Elliptic Curve Cryptography (ECC):
+https://en.wikipedia.org/wiki/Elliptic-curve_cryptography
+
+For encyption & authentication (Elliptic Curve Digital Signature Algorithm - ECDSA).
+
