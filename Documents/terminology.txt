@@ -5,3 +5,10 @@
 - command injection attacks: Characters that are dangerous for the language that your server uses.
 
 - SQL injection: The SQL laguage uses quotes to terminate strings, slashes to escape strings & semicolons to end a line of code. Attackers use this to terminate the string early & then add commands.
+
+- Sanity checks (prevent command injection attacks, avoid SQL injection, validating input, designing by contract, nullability & safety checks - checking stored data) is called Defensive programming.
+
+- Time-of-check to time-of-use: 
+https://en.wikipedia.org/wiki/Time-of-check_to_time-of-use
+
+- Mutual exclusion: Synchronizing data means locking it so only one thread can access that part of the code at a time.
