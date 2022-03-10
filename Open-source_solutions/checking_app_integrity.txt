@@ -1,0 +1,6 @@
+- Rootbeer: https://github.com/scottyab/rootbeer
+
+- Google’s SafetyNet Attestation API: https://developer.android.com/training/safetynet/attestation 
+(https://developer.android.com/google/play/integrity)
+
+- GuardSquare (a commercial solution - DexGuard): https://www.guardsquare.com/dexguard
