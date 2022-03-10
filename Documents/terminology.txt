@@ -1,1 +1,7 @@
 - man-in-the-middle attack: It allows the entity in possession of the certificate to decrypt, read & modify the traffic => "certificate pinning" to solve that problem.
+
+- overflow: Hackers exploit security vulnerabilities by causing an app to write data to an area it's not supported to, such as beyond an expected boundary & into adjacent locations.
+
+- command injection attacks: Characters that are dangerous for the language that your server uses.
+
+- SQL injection: The SQL laguage uses quotes to terminate strings, slashes to escape strings & semicolons to end a line of code. Attackers use this to terminate the string early & then add commands.

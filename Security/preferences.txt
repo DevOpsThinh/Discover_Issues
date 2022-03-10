@@ -15,6 +15,11 @@ or compromise)
 
 # A Third-party encryption library: https://github.com/facebookarchive/conceal
 
+# Sanitize data:
+
+- URL Endcoding: https://developer.android.com/reference/kotlin/java/net/URLEncoder
+- Format & style: https://developer.android.com/guide/topics/resources/string-resource#FormattingAndStyling
+
 # Wiki: 
 https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
 https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation
