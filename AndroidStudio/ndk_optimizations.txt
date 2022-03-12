@@ -1,0 +1,2 @@
+- JNI training article:
+https://developer.android.com/training/articles/perf-jni#faq-why-didnt-findclas-sfind-my-class
