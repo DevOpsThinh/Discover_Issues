@@ -1,0 +1,3 @@
+Podcast: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-we-bservice-search-api/
+
+emojis api: https://api.github.com/emojis
